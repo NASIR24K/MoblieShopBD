@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.body
+    {
+		background-color: #FFEFEF;
+    }
+#order
+   {
+	   
+   }
+#order_info
+    {
+		width: 150px;
+		height: 200px;
+		float: left;
+    }

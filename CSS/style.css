@@ -1,0 +1,46 @@
+.nav{padding:0; margin:0; list-style:none;}
+.nav li{}
+.nav li a{ 
+           line-height:40px;
+           text-decoration:none;
+           display:block;
+		   background:#736C6C none repeat scroll 0 0;
+		   color:#ddd;
+		   padding:5px;
+		   margin-bottom:1px;
+		   }
+		.nav li a:hover{background:#D3CBCB none repeat scroll 0 0;}  
+		
+.main_nav{ padding:0; margin:0; list-style:none;}
+.main_nav li{ float:left;}
+.main_nav li a{
+	text-decoration:none;
+	background:#F1EAEA none repeat scroll 0 0;
+	color:#B7A7A7;
+	margin-right:4px;
+	padding:5px;
+	}
+.main_nav li a:hover{ background:#B7ABAB; color:#DCBCBD;}
+
+
+.table.mytable{margin:20px 10px 10px 80px; width:900px;}
+.table.mytable tr td{ text-align:center;}
+
+.min-content{
+	margin:10px;
+	float:left;
+	 width:170px;
+	 height:300px;
+	 border:1px solid;
+	}
+.min-img{
+	  height:150px;
+	  margin-bottom:dotted;
+	 }	
+.half-min{
+	  height:100px;
+	  font-size:14px;
+	 }	
+.user_lg{
+	list-style: none;
+}
